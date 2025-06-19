@@ -1,0 +1,2 @@
+# MY-CODE-ISLAND
+A growing collection of programming explorations Welcome to My Code Island — a space where I share the Java programs I’ve written, alongside my evolving experiments in Python. This island is constantly expanding as I dive deeper into new technologies, with SQL projects setting sail soon. Whether you're here to learn, explore, or just peek into my code vault, you’re always welcome aboard. Let me know if you'd like to add a short section about how your code is structured or what kind of projects you’re especially proud of. Happy coding, captain! 🚢
