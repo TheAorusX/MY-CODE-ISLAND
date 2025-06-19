@@ -1,0 +1,6 @@
+Category 1: Input/Output Operations
+Purpose: Communicate with users and display information Related to: User interaction and data
+presentation What they do: Move information in and out of your program
+print() - Displays text, numbers, or variables to the screen
+input() - Pauses program execution to collect user input
+str(), int(), float() - Convert user input to usable data types

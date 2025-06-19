@@ -1,0 +1,29 @@
+A super class Demand has Sub Class defined to store the details ofthe demands for a product. 
+Define a subclass Supply which contains the production and supply details of the products.
+The details of the members of both the classes are given below:
+Class name
+Data members/instance variables:
+pid :string to store the product ID
+pname :string to store the product name
+pdemand :integer to store the quantity 
+____________________________________________________________________________________________
+class Supply
+{
+    int pproduced;
+    double prate;
+    public Supply(String pid, String pname, int pdemand,int pproduced, double prate)
+    {
+        Super(String pid, String pname, int pdemand);
+        pproduced=pp;
+        prate=pr;
+    }
+    public double calculation()
+    {
+        double d=super.pdemand*prate;
+        double p=prate*pproduced;
+    }
+    public void display()
+    {
+        
+    }
+}

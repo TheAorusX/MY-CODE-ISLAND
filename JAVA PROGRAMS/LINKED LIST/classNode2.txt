@@ -1,0 +1,25 @@
+QUESTION:
+A linked list is formed from the objects of the class Node. The class structure of the
+Node is given below:
+class Node
+int n;
+Node link;
+Write an Algorithm OR a Method to search for a number from an existing linked list.
+The method declaration is as follows:
+void FindNode(Node str,int b)
+--------------------------------------
+METHDO:
+void FindNode(Node str, int b)
+{
+    Node temp=str;
+    while(temp!=null)
+    {
+        if(temp.n==b)
+        {
+            System.out.println()
+        }
+    }
+
+}
+--------------------------------------
+ALGORITHM:

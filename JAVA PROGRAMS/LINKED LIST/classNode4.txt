@@ -1,0 +1,27 @@
+QUESTION:
+class Node
+{
+    int n;
+    Node link;
+}
+method declaration is as follows void FindNode(Note str, int b)
+--------------------------------------------------------
+public void FindNode(Node str, int b)
+{
+    Node p=str;
+    boolean f=false;
+    while(p!=null)
+    {
+        if(p.n==str)
+       {
+        System.out.println("Number found");
+        f=true;
+        break;
+       }
+       p=nlink;
+    }
+    if(f==false)
+    {
+        System.out.,pritln("Number not found");
+    }
+}

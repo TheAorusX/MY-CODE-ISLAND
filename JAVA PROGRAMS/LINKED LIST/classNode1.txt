@@ -1,0 +1,33 @@
+QUEUSTION:
+A linked list is formed from the objects of the classtNo    de. The class structure of the
+Node is given below:
+class Node
+int
+num;
+Node next;
+Write an Algorithm OR a Method to count the nodes that contain only odd integers
+from an existing linked list and returns the count.
+The method declaration is as follows:
+int CountOdd( Node startPtr )
+-------------------------
+METHOD:
+int CountOdd(Node startPtr)
+{
+    int C=0;
+    Node temp=new Node(startPtr)
+    while(temp!=null)
+    {
+        if(temp.num%2!=0)
+        C++;
+        temp=temp.next;
+    }
+    return C;
+}
+---------------------
+ALGORITHM:
+1.Start
+2.Set temporary pointer to the first node
+3.Repeat steps 4 and 5 until the pointer reaches null. Return count
+4.Check for odd and increment the counter.
+5.Move pointer to the next node
+6.End

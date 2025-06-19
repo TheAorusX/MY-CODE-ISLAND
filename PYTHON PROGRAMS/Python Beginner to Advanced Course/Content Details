@@ -1,0 +1,78 @@
+This course is designed to take absolute beginners through the fundamental building blocks of Python—starting from simple keywords like print, if, and else, and gradually advancing to functions, loops, classes, and more. Carefully structured in ascending order of complexity, each lesson builds on the last, ensuring learners gain confidence and clarity every step of the way. By the end, students will not only understand Python syntax but also develop the problem-solving mindset of a programmer.
+
+# BELLOW IS THE ORGANISED TABLE OF ALL THE PHASES OF THE COURSE ORGANISED IN A BEGINNER FRIENDLY SEQUENCE
+
+Phase 1: Absolute Beginner 
+Core concepts every programmer needs immediately
+1. print() - Display output to the user
+2. input() - Get information from the user
+3. '=' (assignment) - Store values in variables
+4. '#' (comments) - Add notes to your code
+5. int(), str(), float() - Convert between data types
+
+
+Phase 2: Basic Logic 
+Making decisions and simple comparisons
+6. if - Make decisions in your code
+7. else - Handle the alternative case
+8. elif - Handle multiple conditions
+9. ==, !=, <, >, <=, >= - Compare values
+10. and, or, not - Combine logical conditions
+11. True, False - Boolean values
+
+
+Phase 3: Repetition and Structure 
+Doing things multiple times efficiently
+12. for - Repeat actions a specific number of times
+13. while - Repeat actions until a condition changes
+14. range() - Generate sequences of numbers
+15. len() - Find the length of collections
+16. break - Exit from loops early
+17. continue - Skip to the next loop iteration
+
+
+Phase 4: Data Collections 
+Working with multiple pieces of information
+18. list - Store multiple items in order
+19. append(), remove(), pop() - Modify lists
+20. dict - Store key-value pairs
+21. tuple - Store unchangeable collections
+22. set - Store unique items
+23. in - Check if something exists in a collection
+
+
+Phase 5: Code Organization 
+Breaking code into reusable pieces
+24. def - Create your own functions
+25. return - Send results back from functions
+26. pass - Create placeholder code blocks
+27. import - Use code from other files
+28. from - Import specific parts of modules
+
+
+Phase 6: Error Handling 
+Dealing with problems gracefully
+29. try - Attempt code that might fail
+30. except - Handle specific errors
+31. finally - Code that always runs
+32. raise - Create your own errors
+Phase 7: Advanced Concepts (Week 7-8)
+
+Phase 7: More sophisticated programming techniques
+33. class - Create custom data types
+34. self - Refer to the current object
+35. init() - Set up new objects
+36. with - Manage resources automatically
+37. lambda - Create small anonymous functions
+38. yield - Create generators for memory efficiency
+
+
+Phase 8: Expert Level 
+Professional programming concepts
+39. global - Access variables from outer scope
+40. nonlocal - Access variables from enclosing functions
+41. assert - Test assumptions in your code
+42. del - Remove variables or objects
+43. is - Test object identity
+44. None - Represent absence of value
+

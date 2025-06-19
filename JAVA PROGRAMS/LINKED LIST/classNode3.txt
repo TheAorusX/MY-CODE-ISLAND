@@ -1,0 +1,43 @@
+QUESTION:
+Register is an entity which can hold a maximum of hundred names. 
+Register animals the user to add and remove names from the topmost and only define a class register with the following details:
+Data Members
+stud[] //array to store the names of students
+cap //stores the max xapacity of array
+top //to point the index of the top end
+Mmeber Functions
+Register(int max) //Constructed to initialise the members cap equals to max top equals to minus one and create the string array
+void push(String n) //To add name in the register at top location Otherwise, display the message Overflow
+String pop() //Remove and returns the name from the top most location of the register
+void display() //displays all the names in the register
+--------------------------------------------------------------------
+class Register
+{
+    String stud[]=new String[100];
+    int cap, top;
+    public void push(String)
+    {
+        if(top>=(cap-1))
+        {
+            system.out.println("Overflow");
+        }
+        else
+        {
+            top++;
+            stud[top]=n;
+        }
+    }
+    public void pop()
+    {
+        if(top==-1)
+        {
+            System.out.printl("Underflow")
+        }
+        else
+        {
+            String stud[top];
+            top--;
+            return s;
+        }
+    }
+}
