@@ -1,7 +1,7 @@
 """
 This script demonstrates various usages of the built-in `print()` function in Python.
 The `print()` function outputs the specified message or values to the console or standard output device.
-"""
+"""# Basic print statements
 
 print("Hello, World!")
 
