@@ -1,0 +1,39 @@
+Enter two integers: 12
+12
+Addition: 24
+Subtraction: 0
+Multiplication: 144
+Division: 1.00
+Modulus: 0
+Enter a number: 8
+Square: 64
+Cube: 512
+Enter marks of 5 subjects: 45
+65
+54
+56
+76
+Total: 296
+Average: 59.20
+Enter three sides of triangle: 60
+60
+60
+Area of triangle: 1558.85
+Enter basic salary: 45000
+DA: 4500.00
+HRA: 6750.00
+Gross Salary: 56250.00
+Enter two numbers to swap: 43
+34
+After swapping: x = 34, y = 43
+Enter two integers for relational/logical operators: 65
+56
+p is 6290968 , a is 6290964p == q: 0
+p != q: 1
+p > q: 1
+p < q: 0
+p >= q: 1
+p <= q: 0
+(p > 0) && (q > 0): 1
+(p > 0) || (q > 0): 1
+!(p > 0): 0
